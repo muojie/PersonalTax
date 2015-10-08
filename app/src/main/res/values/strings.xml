@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">个税计算器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="str_hello">欢迎使用个税计算器</string>
+    <string name="str_income_type">收入类型</string>
+    <string name="str_income_amount">收入金额</string>
+    <string name="str_cardinality">五险一金基数</string>
+    <string name="action_settings">Settings</string>
+</resources>
